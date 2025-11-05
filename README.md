@@ -5,11 +5,11 @@
 Этот проект направлен на обнаружение и классификацию патогенных мутаций в геномных данных с помощью ML.
 
 ## Установка
-1. Клонируйте репозиторий: `git clone https://github.com/yourname/house-price-prediction.git`
-2. Установите зависимости: `pip install -r requirements.txt`
+1. Клонируйте репозиторий (например, в kaggle): `git clone https://github.com/riemann-sp/genetic-classification.git`
+2. Установите необходимые бибилиотеки: `pip install -r requirements.txt --upgrade-strategy only-if-needed`
 
 ## Использование
-Запустите основной ноутбук: `jupyter notebook notebooks/exploratory_analysis.ipynb`
+Запустите основной ноутбук: `notebooks/main_file.ipynb`
 
 ## Данные
 Данные берутся с:
