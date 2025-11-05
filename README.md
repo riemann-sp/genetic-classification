@@ -1,11 +1,8 @@
-
-markdown
-
 # genetic-classification
-B06-303 group project
+Исполнители проекта: Грецкий Родион Б06-303, Алла Б06-303, Вика Б06-303, Арина Б06-303
 
 ## Описание
-Этот проект предсказывает цены на дома с помощью ML.
+Этот проект направлен на обнаружение и классификацию наследственных  цены на дома с помощью ML.
 
 ## Установка
 1. Клонируйте репозиторий: `git clone https://github.com/yourname/house-price-prediction.git`
@@ -15,4 +12,4 @@ B06-303 group project
 Запустите основной ноутбук: `jupyter notebook notebooks/exploratory_analysis.ipynb`
 
 ## Данные
-Данные берутся с [Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data).
+Данные берутся с
